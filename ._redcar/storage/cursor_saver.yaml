@@ -12,4 +12,7 @@ cursor_positions:
   - :path: app/assets/images/rails.png
     :cursor_offset: 0
     :timestamp: 2012-03-21 10:42:18.283000 -05:00
+  - :path: .git/COMMIT_EDITMSG
+    :cursor_offset: 0
+    :timestamp: 2012-03-22 13:59:29.527000 -05:00
 files_to_retain: 0
