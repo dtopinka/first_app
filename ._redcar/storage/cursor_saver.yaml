@@ -15,4 +15,9 @@ cursor_positions:
   - :path: .git/COMMIT_EDITMSG
     :cursor_offset: 0
     :timestamp: 2012-03-22 13:59:29.527000 -05:00
+  - :path: README.markdown
+    :cursor_offset: 207
+    :timestamp: 2012-03-22 13:27:08.612000 -05:00
+    :selection_offset: 0
+    :block_selection_mode: false
 files_to_retain: 0
